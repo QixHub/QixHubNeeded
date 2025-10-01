@@ -2,13 +2,15 @@
   {
     "name": "[☄️] 99 Nights in the Forest 🔦",
     "placeId": 79546208627805,
-    "last_updated": "2025-09-30T04:20:48Z",
-    "tested": true
+    "last_updated": "2025-10-01T03:10:28Z",
+    "tested": false,
+    "status_message": "Waiting for testing"
   },
   {
     "name": "[⚔️] Plants Vs Brainrots 🌻",
     "placeId": 127742093697776,
-    "last_updated": "2025-09-30T15:03:02Z",
-    "tested": true
+    "last_updated": "2025-10-01T12:46:41Z",
+    "tested": false,
+    "status_message": "Waiting for testing"
   }
 ]
